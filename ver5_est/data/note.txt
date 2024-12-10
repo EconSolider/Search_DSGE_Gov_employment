@@ -1,0 +1,8 @@
+総務省SNA: 国内総生産 民間最終消費支出 民間住宅投資 民間企業設備投資 公的固定資本形成 政府最終消費支出(公務員人件費含む) 実質雇用者報酬 GDPデフレーター
+総務省労働力調査: 雇用者数 完全失業率
+一般職業紹介状況：有効求人数(パート含む)
+財政金融統計月報:国債残高
+日銀:コールレート
+実効税率:https://www.wider.unu.edu/database/data-and-resources-grd
+失業給付:雇用保険事業統計
+政府雇用:the International Labour Organization (ILO), ILOSTAT (database), Public employment by sectors and sub-sectors of national accounts.
